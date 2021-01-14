@@ -1,2 +1,3 @@
-# ntru-crypto-temp
-Open Source NTRU Public Key Cryptography and Reference Code
+# ntru-crypto
+
+Visit [ntru.org](https://ntru.org) for more information.
